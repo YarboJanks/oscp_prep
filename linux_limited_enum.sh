@@ -2,7 +2,7 @@
 # Created by mindcrank Twitter: @n0mad86
 # Queries based off of https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 # Credit to Twitter: @g0tmi1k
-#
+# Version 0.1
 
 DIR=`pwd`
 DUMP=`dump.txt`
